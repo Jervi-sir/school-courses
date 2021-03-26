@@ -3,6 +3,7 @@
 ## Netwerk Architectures
 
 <ul>
+  
   <li>PW2 Static
     <a href="https://github.com/Jervi-sir/school-courses/blob/main/network%20architecture/TP2%20PW2%20static.pdf" />
   </li>
